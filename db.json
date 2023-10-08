@@ -1,0 +1,49 @@
+{
+  "records": [
+    {
+      "id": 2,
+      "firstname": "kajal ",
+      "lastname": "more",
+      "email": "kajalmore1902@gmail.com",
+      "dob": "1998-02-19",
+      "gender": "f",
+      "contact": "9632584100"
+    },
+    {
+      "firstname": "sahil",
+      "lastname": "parab",
+      "email": "sahil@gmail.com",
+      "dob": "1994-12-17",
+      "gender": "m",
+      "contact": "9070112255",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "firstname": "aalok",
+      "lastname": "kadam",
+      "email": "alok13@gmail.com",
+      "dob": "1998-08-13",
+      "gender": "m",
+      "contact": "7753621400"
+    },
+    {
+      "firstname": "ashwini",
+      "lastname": "waghmode",
+      "email": "ashwini@gmail.com",
+      "dob": "1999-09-01",
+      "gender": "f",
+      "contact": "7710851788",
+      "id": 5
+    },
+    {
+      "firstname": "adarsh",
+      "lastname": "agarwal",
+      "email": "adarsh@gmail.com",
+      "dob": "2000-12-19",
+      "gender": "m",
+      "contact": "9112004569",
+      "id": 6
+    }
+  ]
+}
